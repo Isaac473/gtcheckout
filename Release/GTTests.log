@@ -1,0 +1,8 @@
+﻿  Checkout.cpp
+  GTTests.cpp
+  Generating code
+  40 of 686 functions ( 5.8%) were compiled, the rest were copied from previous compilation.
+    22 functions were new in current compilation
+    43 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GTTests.vcxproj -> C:\beginning_tdd\GTTests\Release\GTTests.exe

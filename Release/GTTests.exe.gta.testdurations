@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\beginning_tdd\GTTests\Release\GTTests.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="GTTests.AssertTrue" Duration="1" />
+    <TestDuration Test="CheckoutTests.CanAssert" Duration="1" />
+    <TestDuration Test="CheckoutTests.CanInstantiateCheckout" Duration="1" />
+    <TestDuration Test="CheckoutTest.CanAddItemPrice" Duration="1" />
+    <TestDuration Test="CheckoutTests.CanAddItemPrice" Duration="1" />
+    <TestDuration Test="CheckoutTests.CanAddItem" Duration="1" />
+    <TestDuration Test="CheckoutTests.CanCalculateTotal" Duration="1" />
+    <TestDuration Test="CheckoutTests.CanGetTotalForMultipleItems" Duration="1" />
+    <TestDuration Test="CheckoutTests.CanAddDiscount" Duration="1" />
+    <TestDuration Test="CheckoutTests.CanCalculateTotalWithDiscount" Duration="1" />
+    <TestDuration Test="CheckoutTests.ItemWithNoPriceThrowsException" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
